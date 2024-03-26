@@ -19,8 +19,9 @@
       "version": "detect"
     }
   },
+  "env": {
+    "jest": true
+  },
   "plugins": ["react", "@typescript-eslint", "prettier"],
-  "rules": {
-    
-  }
+  "rules": {}
 }
